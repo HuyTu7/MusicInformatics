@@ -10,6 +10,6 @@ Visualizing the data of music attributes to see the similar pattern of that attr
 
 Training and Learning the distances between major chords and minor chord so it can be visualized to see how they behaved.
 
-## Song Matching:
+## Song Matching (Audio Fingerprinting):
 
 Matching a segment with noises to a specific song rapidly and correctly in real time. 
