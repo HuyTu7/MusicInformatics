@@ -1,0 +1,6 @@
+Query: query6.wav       Song:song3 from offset 3165
+Query: query5.wav       Song:song1 from offset 1514
+Query: query2.wav       Song:song2 from offset 3239
+Query: query1.wav       Song:song4 from offset 3529
+Query: query4.wav       Song:song5 from offset 4036
+Query: query3.wav       Song:song6 from offset 4095
