@@ -12,4 +12,4 @@ Training and Learning the distances between major chords and minor chord so it c
 
 ## Song Matching (Audio Fingerprinting):
 
-Matching a segment with noises to a specific song rapidly and correctly in real time. 
+Matching a segment with noises to a specific song efficiently and correctly in real time. 
